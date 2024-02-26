@@ -10,5 +10,3 @@ if primero != "a" and primero != "e" and primero != "i" and primero != "o" and p
 else:
   nueva_palabra = palabra + "way"
   print(nueva_palabra.lower())
-
-
