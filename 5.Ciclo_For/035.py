@@ -1,4 +1,6 @@
-# Pide al usuario que ingrese su nombre y luego muestra su nombre tres veces.
+"""
+Pide al usuario que ingrese su nombre y luego muestra su nombre tres veces.
+"""
 
 nombre = input("Ingresa tu nombre: ")
 

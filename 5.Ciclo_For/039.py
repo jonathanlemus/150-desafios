@@ -1,4 +1,6 @@
-# Pide al usuario que ingrese un número entre 1 y 12 y luego muestra la tabla de multiplicar de ese número.
+"""
+Pide al usuario que ingrese un número entre 1 y 12 y luego muestra la tabla de multiplicar de ese número.
+"""
 
 num = int(input("Escribe un número entre el 1 y el 12: "))
 
